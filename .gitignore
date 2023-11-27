@@ -29,6 +29,8 @@
 *.dylib
 
 # Executables
+server
+client
 *.exe
 *.out
 *.app
@@ -50,3 +52,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+client_bonus
+.gitignore
+server_bonus
